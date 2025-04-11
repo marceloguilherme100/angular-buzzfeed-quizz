@@ -1,27 +1,52 @@
-# ProjetoBuzzfeed
+# 🦸‍♂️ Angular Buzzfeed Quizz  
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+Projeto desenvolvido em Angular simulando um Quiz de "Você seria um Herói ou Vilão?" inspirado nos testes do BuzzFeed.
 
-## Development server
+## 🚀 Demonstração
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+> Em breve link do projeto online.
 
-## Code scaffolding
+---
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## 🎮 Sobre o Projeto
 
-## Build
+Este projeto tem como objetivo entreter o usuário com perguntas divertidas e no final dizer se ele seria um Herói ou um Vilão com base nas respostas.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+---
 
-## Running unit tests
+## 🖥️ Tecnologias Utilizadas
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- Angular
+- TypeScript
+- HTML5
+- CSS3
 
-## Running end-to-end tests
+---
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## 📸 Imagens do Projeto  
 
-## Further help
+### Tela Inicial  
+*(adicione imagem aqui)*
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+### Perguntas do Quiz  
+*(adicione imagem aqui)*
+
+### Resultado Final  
+*(adicione imagem aqui)*
+
+---
+
+## 💡 Como Executar o Projeto
+
+```bash
+# Clone o repositório
+git clone https://github.com/marceloguilherme100/angular-buzzfeed-quizz.git
+
+# Acesse a pasta
+cd angular-buzzfeed-quizz
+
+# Instale as dependências
+npm install
+
+# Execute o projeto
+ng serve
